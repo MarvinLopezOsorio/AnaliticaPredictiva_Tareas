@@ -1,4 +1,4 @@
-# AnaliticaPredictiva_Tareas
+# AnaliticaPredictiva_Tareas_TEST
 La base de datos utilizada fue tomada de 
 https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009
 y se completo con el enlace de los autores para la información sobre vino Blanco.
